@@ -1,0 +1,17 @@
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\bin\Debug\net9.0\ContactsApp.exe
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\bin\Debug\net9.0\ContactsApp.deps.json
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\bin\Debug\net9.0\ContactsApp.runtimeconfig.json
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\bin\Debug\net9.0\ContactsApp.dll
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\bin\Debug\net9.0\ContactsApp.pdb
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.AssemblyInfoInputs.cache
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.AssemblyInfo.cs
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.dll
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\refint\ContactsApp.dll
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.pdb
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.genruntimeconfig.cache
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ref\ContactsApp.dll
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\ContactsApp.csproj.AssemblyReference.cache
+C:\Users\VictoriaEmich\RiderProjects\ContactsApp\ContactsApp\obj\Debug\net9.0\Contacts.D10E22FF.Up2Date
